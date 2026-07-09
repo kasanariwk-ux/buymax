@@ -1,0 +1,107 @@
+{
+  "id": "com",
+  "currency": "USD",
+  "locale": "en-US",
+  "hostPattern": "https://www.amazon.com/*",
+  "updatedAt": "2026-07-09",
+  "sourceUrl": "https://sell.amazon.com/pricing",
+  "calibrated": false,
+  "riskDbEnabled": false,
+  "calculatorBeta": true,
+  "selfShipDefaultCost": 6.0,
+  "categories": [
+    {
+      "id": "books",
+      "labelKey": "categoryBooks",
+      "referral": { "model": "flat", "rate": 0.15, "minFee": null },
+      "closingFee": 1.8,
+      "verified": false,
+      "closingFeeVerified": false
+    },
+    {
+      "id": "cd_dvd",
+      "labelKey": "categoryCdDvd",
+      "referral": { "model": "flat", "rate": 0.15, "minFee": null },
+      "closingFee": 1.8,
+      "verified": false,
+      "closingFeeVerified": false
+    },
+    {
+      "id": "games",
+      "labelKey": "categoryGames",
+      "referral": { "model": "flat", "rate": 0.15, "minFee": null },
+      "closingFee": null,
+      "verified": false,
+      "closingFeeVerified": null
+    },
+    {
+      "id": "toys_hobby",
+      "labelKey": "categoryToysHobby",
+      "referral": { "model": "flat", "rate": 0.15, "minFee": null },
+      "closingFee": null,
+      "verified": false,
+      "closingFeeVerified": null
+    },
+    {
+      "id": "electronics",
+      "labelKey": "categoryElectronics",
+      "referral": { "model": "flat", "rate": 0.08, "minFee": null },
+      "closingFee": null,
+      "verified": false,
+      "closingFeeVerified": null
+    }
+  ],
+  "fbaSizeTiers": [
+    { "id": "small", "labelKey": "fbaSizeSmall", "fee": 3.22, "rangeMin": 3.06, "rangeMax": 3.22 },
+    { "id": "standard", "labelKey": "fbaSizeStandard", "fee": 5.4, "rangeMin": 3.86, "rangeMax": 5.4 },
+    { "id": "large", "labelKey": "fbaSizeLarge", "fee": 9.61, "rangeMin": 5.69, "rangeMax": 9.61 },
+    { "id": "oversize", "labelKey": "fbaSizeOversize", "fee": 20.0, "rangeMin": 9.61, "rangeMax": 20.0 }
+  ],
+  "conditionPresets": [
+    { "id": "new", "labelKey": "conditionNew", "priceFactor": 1.0 },
+    { "id": "used_like_new", "labelKey": "conditionUsedLikeNew", "priceFactor": 0.85 },
+    { "id": "used_good", "labelKey": "conditionUsedGood", "priceFactor": 0.75 },
+    { "id": "used_acceptable", "labelKey": "conditionUsedAcceptable", "priceFactor": 0.6 }
+  ],
+  "domSelectors": {
+    "productPageMarker": ["#productTitle", "#ppd", "#dp-container"],
+    "title": ["#productTitle"],
+    "price": [
+      "#corePrice_feature_div .a-price .a-offscreen",
+      "#corePriceDisplay_desktop_feature_div .a-price .a-offscreen",
+      "#priceblock_ourprice",
+      "#priceblock_dealprice",
+      ".a-price .a-offscreen"
+    ],
+    "category": ["#wayfinding-breadcrumbs_feature_div", ".a-breadcrumb"],
+    "asin": ["[data-asin]"],
+    "navSubnav": ["#nav-subnav"],
+    "searchDropdown": ["#searchDropdownBox"],
+    "bylineInfo": ["#bylineInfo"],
+    "makerTableRows": [
+      "#productOverview_feature_div tr",
+      "#detailBullets_feature_div li",
+      "#detailBulletsWrapper_feature_div li",
+      "#productDetails_detailBullets_sections1 tr"
+    ]
+  },
+  "categoryKeywords": {
+    "books": ["Books", "Kindle"],
+    "cd_dvd": ["CDs & Vinyl", "Movies & TV", "DVD", "Blu-ray"],
+    "games": ["Video Games"],
+    "toys_hobby": ["Toys & Games", "Hobbies"],
+    "electronics": ["Electronics", "Camera & Photo"]
+  },
+  "navCategoryMap": {
+    "books": "books",
+    "music": "cd_dvd",
+    "dvd": "cd_dvd",
+    "videogames": "games",
+    "toys": "toys_hobby",
+    "electronics": "electronics"
+  },
+  "searchLaunchers": [
+    { "id": "ebay", "labelKey": "searchEbay", "urlTemplate": "https://www.ebay.com/sch/i.html?_nkw={query}" },
+    { "id": "walmart", "labelKey": "searchWalmart", "urlTemplate": "https://www.walmart.com/search?q={query}" }
+  ]
+}

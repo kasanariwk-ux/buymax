@@ -1,0 +1,110 @@
+{
+  "id": "jp",
+  "currency": "JPY",
+  "locale": "ja-JP",
+  "hostPattern": "https://www.amazon.co.jp/*",
+  "updatedAt": "2026-07-09",
+  "sourceUrl": "https://sell.amazon.co.jp/pricing",
+  "calibrated": false,
+  "riskDbEnabled": true,
+  "calculatorBeta": false,
+  "selfShipDefaultCost": 700,
+  "categories": [
+    {
+      "id": "books",
+      "labelKey": "categoryBooks",
+      "referral": { "model": "flat", "rate": 0.154, "minFee": null },
+      "closingFee": 80,
+      "verified": true,
+      "closingFeeVerified": false
+    },
+    {
+      "id": "cd_dvd",
+      "labelKey": "categoryCdDvd",
+      "referral": { "model": "flat", "rate": 0.154, "minFee": null },
+      "closingFee": 140,
+      "verified": true,
+      "closingFeeVerified": false
+    },
+    {
+      "id": "games",
+      "labelKey": "categoryGames",
+      "referral": { "model": "tiered", "tierMode": "case", "threshold": 750, "lowRate": 0.05, "highRate": 0.084, "minFee": 30 },
+      "closingFee": null,
+      "verified": true,
+      "closingFeeVerified": null
+    },
+    {
+      "id": "toys_hobby",
+      "labelKey": "categoryToysHobby",
+      "referral": { "model": "tiered", "tierMode": "case", "threshold": 750, "lowRate": 0.05, "highRate": 0.104, "minFee": 30 },
+      "closingFee": null,
+      "verified": true,
+      "closingFeeVerified": null
+    },
+    {
+      "id": "electronics",
+      "labelKey": "categoryElectronics",
+      "referral": { "model": "tiered", "tierMode": "case", "threshold": 750, "lowRate": 0.05, "highRate": 0.084, "minFee": 30 },
+      "closingFee": null,
+      "verified": true,
+      "closingFeeVerified": null
+    }
+  ],
+  "fbaSizeTiers": [
+    { "id": "small", "labelKey": "fbaSizeSmall", "fee": 288, "rangeMin": 252, "rangeMax": 288 },
+    { "id": "standard", "labelKey": "fbaSizeStandard", "fee": 532, "rangeMin": 318, "rangeMax": 532 },
+    { "id": "large", "labelKey": "fbaSizeLarge", "fee": 1756, "rangeMin": 589, "rangeMax": 1756 },
+    { "id": "oversize", "labelKey": "fbaSizeOversize", "fee": 5559, "rangeMin": 2689, "rangeMax": 5559 }
+  ],
+  "conditionPresets": [
+    { "id": "new", "labelKey": "conditionNew", "priceFactor": 1.0 },
+    { "id": "used_like_new", "labelKey": "conditionUsedLikeNew", "priceFactor": 0.85 },
+    { "id": "used_good", "labelKey": "conditionUsedGood", "priceFactor": 0.75 },
+    { "id": "used_acceptable", "labelKey": "conditionUsedAcceptable", "priceFactor": 0.6 }
+  ],
+  "domSelectors": {
+    "productPageMarker": ["#productTitle", "#ppd", "#dp-container"],
+    "title": ["#productTitle"],
+    "price": [
+      "#corePrice_feature_div .a-price .a-offscreen",
+      "#corePriceDisplay_desktop_feature_div .a-price .a-offscreen",
+      "#priceblock_ourprice",
+      "#priceblock_dealprice",
+      ".a-price .a-offscreen"
+    ],
+    "category": ["#wayfinding-breadcrumbs_feature_div", ".a-breadcrumb"],
+    "asin": ["[data-asin]"],
+    "navSubnav": ["#nav-subnav"],
+    "searchDropdown": ["#searchDropdownBox"],
+    "bylineInfo": ["#bylineInfo"],
+    "makerTableRows": [
+      "#productOverview_feature_div tr",
+      "#detailBullets_feature_div li",
+      "#detailBulletsWrapper_feature_div li",
+      "#productDetails_detailBullets_sections1 tr"
+    ]
+  },
+  "categoryKeywords": {
+    "books": ["本", "書籍", "コミック", "文庫", "雑誌", "Books"],
+    "cd_dvd": ["CD", "DVD", "ミュージック", "Blu-ray", "音楽", "映画"],
+    "games": ["ゲーム", "TVゲーム", "テレビゲーム", "Video Games"],
+    "toys_hobby": ["おもちゃ", "ホビー", "玩具", "Toys"],
+    "electronics": ["家電", "カメラ", "パソコン・周辺機器", "Electronics"]
+  },
+  "navCategoryMap": {
+    "books": "books",
+    "music": "cd_dvd",
+    "dvd": "cd_dvd",
+    "videogames": "games",
+    "toys": "toys_hobby",
+    "electronics": "electronics"
+  },
+  "searchLaunchers": [
+    { "id": "mercari", "labelKey": "searchMercari", "urlTemplate": "https://jp.mercari.com/search?keyword={query}" },
+    { "id": "rakuten", "labelKey": "searchRakuten", "urlTemplate": "https://search.rakuten.co.jp/search/mall/{query}/" },
+    { "id": "yahoo_auction", "labelKey": "searchYahooAuction", "urlTemplate": "https://auctions.yahoo.co.jp/search/search?p={query}" },
+    { "id": "surugaya", "labelKey": "searchSurugaya", "urlTemplate": "https://www.suruga-ya.jp/search?search_word={query}" },
+    { "id": "second_street", "labelKey": "searchSecondStreet", "urlTemplate": "https://www.2ndstreet.jp/search?keyword={query}" }
+  ]
+}
