@@ -4,7 +4,7 @@
 
 Amazon商品ページを開くだけで「**いくらまでなら仕入れてよいか**」を1秒で逆算し、真贋調査多発ブランド・転売規制メーカーを購入前に警告するChrome拡張です。
 
-- Chrome Web Store: （審査提出準備中 / coming soon）
+- **Chrome Web Store: [インストールはこちら / Install](https://chromewebstore.google.com/detail/buymax-%E2%80%93-max-buy-price-ri/iemgeafenaakmflaalglemakpbjegoke)**
 - [Privacy Policy / プライバシーポリシー](https://kasanariwk-ux.github.io/buymax/privacy.html)
 
 ## Support / サポート
