@@ -8,6 +8,7 @@
   "calibrated": false,
   "riskDbEnabled": true,
   "calculatorBeta": false,
+  "paymentsLive": false,
   "selfShipDefaultCost": 700,
   "categories": [
     {
