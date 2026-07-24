@@ -3,7 +3,7 @@
   "currency": "JPY",
   "locale": "ja-JP",
   "hostPattern": "https://www.amazon.co.jp/*",
-  "updatedAt": "2026-07-09",
+  "updatedAt": "2026-07-24",
   "sourceUrl": "https://sell.amazon.co.jp/pricing",
   "calibrated": false,
   "riskDbEnabled": true,
@@ -30,7 +30,12 @@
     {
       "id": "games",
       "labelKey": "categoryGames",
-      "referral": { "model": "tiered", "tierMode": "case", "threshold": 750, "lowRate": 0.05, "highRate": 0.084, "minFee": 30 },
+      "referral": {
+        "model": "tiered",
+        "tierMode": "case",
+        "brackets": [{ "upTo": 750, "rate": 0.05 }, { "rate": 0.084 }],
+        "minFee": 30
+      },
       "closingFee": null,
       "verified": true,
       "closingFeeVerified": null
@@ -38,7 +43,12 @@
     {
       "id": "toys_hobby",
       "labelKey": "categoryToysHobby",
-      "referral": { "model": "tiered", "tierMode": "case", "threshold": 750, "lowRate": 0.05, "highRate": 0.104, "minFee": 30 },
+      "referral": {
+        "model": "tiered",
+        "tierMode": "case",
+        "brackets": [{ "upTo": 750, "rate": 0.05 }, { "rate": 0.104 }],
+        "minFee": 30
+      },
       "closingFee": null,
       "verified": true,
       "closingFeeVerified": null
@@ -46,9 +56,118 @@
     {
       "id": "electronics",
       "labelKey": "categoryElectronics",
-      "referral": { "model": "tiered", "tierMode": "case", "threshold": 750, "lowRate": 0.05, "highRate": 0.084, "minFee": 30 },
+      "referral": {
+        "model": "tiered",
+        "tierMode": "case",
+        "brackets": [{ "upTo": 750, "rate": 0.05 }, { "rate": 0.084 }],
+        "minFee": 30
+      },
       "closingFee": null,
       "verified": true,
+      "closingFeeVerified": null
+    },
+    {
+      "id": "home_kitchen",
+      "labelKey": "categoryHomeKitchen",
+      "referral": {
+        "model": "tiered",
+        "tierMode": "case",
+        "brackets": [{ "upTo": 750, "rate": 0.05 }, { "rate": 0.154 }],
+        "minFee": 30
+      },
+      "closingFee": null,
+      "verified": false,
+      "closingFeeVerified": null
+    },
+    {
+      "id": "beauty_health",
+      "labelKey": "categoryBeautyHealth",
+      "referral": {
+        "model": "tiered",
+        "tierMode": "case",
+        "brackets": [{ "upTo": 750, "rate": 0.05 }, { "upTo": 1500, "rate": 0.084 }, { "rate": 0.104 }],
+        "minFee": 30
+      },
+      "closingFee": null,
+      "verified": false,
+      "closingFeeVerified": null
+    },
+    {
+      "id": "food_beverage",
+      "labelKey": "categoryFoodBeverage",
+      "referral": {
+        "model": "tiered",
+        "tierMode": "case",
+        "brackets": [{ "upTo": 750, "rate": 0.05 }, { "upTo": 1500, "rate": 0.084 }, { "rate": 0.104 }],
+        "minFee": 30
+      },
+      "closingFee": null,
+      "verified": false,
+      "closingFeeVerified": null
+    },
+    {
+      "id": "sports_outdoors",
+      "labelKey": "categorySportsOutdoors",
+      "referral": {
+        "model": "tiered",
+        "tierMode": "case",
+        "brackets": [{ "upTo": 750, "rate": 0.05 }, { "rate": 0.104 }],
+        "minFee": 30
+      },
+      "closingFee": null,
+      "verified": false,
+      "closingFeeVerified": null
+    },
+    {
+      "id": "stationery",
+      "labelKey": "categoryStationery",
+      "referral": {
+        "model": "tiered",
+        "tierMode": "case",
+        "brackets": [{ "upTo": 750, "rate": 0.05 }, { "rate": 0.154 }],
+        "minFee": 30
+      },
+      "closingFee": null,
+      "verified": false,
+      "closingFeeVerified": null
+    },
+    {
+      "id": "pet_supplies",
+      "labelKey": "categoryPetSupplies",
+      "referral": {
+        "model": "tiered",
+        "tierMode": "case",
+        "brackets": [{ "upTo": 750, "rate": 0.05 }, { "upTo": 1500, "rate": 0.084 }, { "rate": 0.154 }],
+        "minFee": 30
+      },
+      "closingFee": null,
+      "verified": false,
+      "closingFeeVerified": null
+    },
+    {
+      "id": "diy_tools",
+      "labelKey": "categoryDiyTools",
+      "referral": {
+        "model": "tiered",
+        "tierMode": "case",
+        "brackets": [{ "upTo": 750, "rate": 0.05 }, { "rate": 0.154 }],
+        "minFee": 30
+      },
+      "closingFee": null,
+      "verified": false,
+      "closingFeeVerified": null
+    },
+    {
+      "id": "baby_maternity",
+      "labelKey": "categoryBabyMaternity",
+      "referral": {
+        "model": "tiered",
+        "tierMode": "case",
+        "brackets": [{ "upTo": 750, "rate": 0.05 }, { "upTo": 1500, "rate": 0.084 }, { "rate": 0.154 }],
+        "minFee": 30
+      },
+      "closingFee": null,
+      "verified": false,
       "closingFeeVerified": null
     }
   ],
@@ -91,7 +210,15 @@
     "cd_dvd": ["CD", "DVD", "ミュージック", "Blu-ray", "音楽", "映画"],
     "games": ["ゲーム", "TVゲーム", "テレビゲーム", "Video Games"],
     "toys_hobby": ["おもちゃ", "ホビー", "玩具", "Toys"],
-    "electronics": ["家電", "カメラ", "パソコン・周辺機器", "Electronics"]
+    "electronics": ["家電", "カメラ", "パソコン・周辺機器", "Electronics"],
+    "home_kitchen": ["ホーム&キッチン", "ホーム・キッチン", "ホームキッチン", "キッチン用品", "インテリア", "Home & Kitchen"],
+    "beauty_health": ["ビューティ・ヘルス&パーソナルケア", "ビューティー", "ヘルス&ビューティー", "ビューティー&パーソナルケア", "コスメ", "Beauty", "Health & Personal Care"],
+    "food_beverage": ["食品&飲料", "食品・飲料", "食品", "飲料", "Food & Beverage", "Grocery"],
+    "sports_outdoors": ["スポーツ&アウトドア", "スポーツ・アウトドア", "アウトドア", "Sports & Outdoors"],
+    "stationery": ["文房具・オフィス用品", "文房具", "オフィス用品", "ステーショナリー", "Stationery", "Office Products"],
+    "pet_supplies": ["ペット用品", "ペットグッズ", "Pet Supplies"],
+    "diy_tools": ["DIY・工具", "DIY", "工具", "産業・研究開発用品", "Tools & Home Improvement"],
+    "baby_maternity": ["ベビー&マタニティ", "ベビー・マタニティ", "マタニティ", "ベビー用品", "Baby"]
   },
   "navCategoryMap": {
     "books": "books",
@@ -99,7 +226,15 @@
     "dvd": "cd_dvd",
     "videogames": "games",
     "toys": "toys_hobby",
-    "electronics": "electronics"
+    "electronics": "electronics",
+    "home": "home_kitchen",
+    "beauty": "beauty_health",
+    "grocery": "food_beverage",
+    "sporting-goods": "sports_outdoors",
+    "office-products": "stationery",
+    "pet-supplies": "pet_supplies",
+    "diy": "diy_tools",
+    "baby-products": "baby_maternity"
   },
   "searchLaunchers": [
     { "id": "mercari", "labelKey": "searchMercari", "urlTemplate": "https://jp.mercari.com/search?keyword={query}" },

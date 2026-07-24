@@ -1,0 +1,3060 @@
+{
+  "updatedAt": "2026-07-24",
+  "sourceUrl": "https://sellercentral.amazon.co.jp/help/hub/reference/external/200339950",
+  "dbVersion": 2,
+  "entries": [
+    {
+      "id": "resale-kao",
+      "keywords": [
+        "花王",
+        "Kao"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "en": "Reports that this manufacturer's terms restrict resale by unauthorized sellers. Confirm current policy before listing.",
+        "ja": "このメーカーは規約で無許可事業者による転売を制限しているとの報告があります。出品前に最新の規約をご確認ください。"
+      },
+      "sourceUrl": "https://ecstarslab.com/blog/terms-and-conditions-prohibited/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "resale-unicharm",
+      "keywords": [
+        "ユニ・チャーム",
+        "ユニチャーム",
+        "Unicharm"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "en": "Reports that this manufacturer's terms restrict resale by unauthorized sellers. Confirm current policy before listing.",
+        "ja": "このメーカーは規約で無許可事業者による転売を制限しているとの報告があります。出品前に最新の規約をご確認ください。"
+      },
+      "sourceUrl": "https://ecstarslab.com/blog/terms-and-conditions-prohibited/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "resale-pg",
+      "keywords": [
+        "P&G",
+        "ピーアンドジー"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "en": "Reports that this manufacturer's terms restrict resale by unauthorized sellers. Confirm current policy before listing.",
+        "ja": "このメーカーは規約で無許可事業者による転売を制限しているとの報告があります。出品前に最新の規約をご確認ください。"
+      },
+      "sourceUrl": "https://ecstarslab.com/blog/terms-and-conditions-prohibited/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "resale-muji",
+      "keywords": [
+        "無印良品",
+        "MUJI",
+        "無印"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "en": "Reports that this retailer's terms restrict resale of its private-brand goods by unauthorized sellers.",
+        "ja": "この小売ブランドは規約で自社PB商品の無許可転売を制限しているとの報告があります。出品前に最新の規約をご確認ください。"
+      },
+      "sourceUrl": "https://ecstarslab.com/blog/terms-and-conditions-prohibited/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "resale-disney",
+      "keywords": [
+        "ディズニー",
+        "Disney"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "en": "Reports that this brand's terms restrict resale by unauthorized sellers, and it is also a frequent subject of counterfeit/IP enforcement on marketplaces.",
+        "ja": "このブランドは規約で無許可転売を制限しているとの報告があり、マーケットプレイスでの真贋調査・商標対応の対象になりやすいとされています。"
+      },
+      "sourceUrl": "https://ecstarslab.com/blog/terms-and-conditions-prohibited/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "resale-sanrio",
+      "keywords": [
+        "サンリオ",
+        "Sanrio"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "en": "Reports that this brand's terms restrict resale by unauthorized sellers, and it is also a frequent subject of counterfeit/IP enforcement on marketplaces.",
+        "ja": "このブランドは規約で無許可転売を制限しているとの報告があり、マーケットプレイスでの真贋調査・商標対応の対象になりやすいとされています。"
+      },
+      "sourceUrl": "https://ecstarslab.com/blog/terms-and-conditions-prohibited/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "resale-ghibli",
+      "keywords": [
+        "スタジオジブリ",
+        "Studio Ghibli",
+        "ジブリ"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "en": "Reports that this brand's official merchandise terms restrict resale by unauthorized sellers.",
+        "ja": "このブランドの公式グッズは規約で無許可転売を制限しているとの報告があります。出品前に最新の規約をご確認ください。"
+      },
+      "sourceUrl": "https://ecstarslab.com/blog/terms-and-conditions-prohibited/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "resale-starbucks",
+      "keywords": [
+        "スターバックス",
+        "Starbucks"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "en": "Reports that this brand's terms restrict resale of store-exclusive merchandise by unauthorized sellers.",
+        "ja": "このブランドは店舗限定グッズ等の無許可転売を規約で制限しているとの報告があります。"
+      },
+      "sourceUrl": "https://ecstarslab.com/blog/terms-and-conditions-prohibited/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "resale-bandai",
+      "keywords": [
+        "バンダイ",
+        "BANDAI"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "en": "Reports that this manufacturer's terms restrict resale by unauthorized sellers, and its toy/hobby lines are a frequent subject of counterfeit enforcement.",
+        "ja": "このメーカーは規約で無許可転売を制限しているとの報告があり、玩具・ホビー系商品は真贋調査の対象になりやすいとされています。"
+      },
+      "sourceUrl": "https://ecstarslab.com/blog/terms-and-conditions-prohibited/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "resale-takaratomy",
+      "keywords": [
+        "タカラトミー",
+        "TAKARA TOMY"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "en": "Reports that this manufacturer's terms restrict resale by unauthorized sellers.",
+        "ja": "このメーカーは規約で無許可事業者による転売を制限しているとの報告があります。"
+      },
+      "sourceUrl": "https://ecstarslab.com/blog/terms-and-conditions-prohibited/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "resale-fancl",
+      "keywords": [
+        "ファンケル",
+        "FANCL"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "en": "Reports that this manufacturer's terms restrict resale by unauthorized sellers (cosmetics/supplements).",
+        "ja": "このメーカー（化粧品・サプリメント）は規約で無許可転売を制限しているとの報告があります。"
+      },
+      "sourceUrl": "https://ecstarslab.com/blog/terms-and-conditions-prohibited/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "resale-kobayashi",
+      "keywords": [
+        "小林製薬",
+        "Kobayashi Pharmaceutical"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "en": "Reports that this manufacturer's terms restrict resale by unauthorized sellers (quasi-drugs/OTC).",
+        "ja": "このメーカー（医薬部外品・OTC）は規約で無許可転売を制限しているとの報告があります。"
+      },
+      "sourceUrl": "https://ecstarslab.com/blog/terms-and-conditions-prohibited/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "resale-dhc",
+      "keywords": [
+        "DHC"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "en": "Reports that this manufacturer's terms restrict resale by unauthorized sellers (cosmetics/supplements).",
+        "ja": "このメーカー（化粧品・サプリメント）は規約で無許可転売を制限しているとの報告があります。"
+      },
+      "sourceUrl": "https://ecstarslab.com/blog/terms-and-conditions-prohibited/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "resale-uniqlo",
+      "keywords": [
+        "ユニクロ",
+        "UNIQLO"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "en": "Reports that this brand's terms restrict resale by unauthorized sellers.",
+        "ja": "このブランドは規約で無許可事業者による転売を制限しているとの報告があります。"
+      },
+      "sourceUrl": "https://ecstarslab.com/blog/terms-and-conditions-prohibited/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "resale-supreme",
+      "keywords": [
+        "Supreme",
+        "シュプリーム"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "en": "Reports that this brand's terms restrict resale by unauthorized sellers, and it is also a common target of counterfeit goods.",
+        "ja": "このブランドは規約で無許可転売を制限しているとの報告があり、模倣品の流通も多いとされています。"
+      },
+      "sourceUrl": "https://ecstarslab.com/blog/terms-and-conditions-prohibited/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "resale-nike",
+      "keywords": [
+        "ナイキ",
+        "NIKE"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "en": "Reports that this brand's terms restrict resale by unauthorized sellers, and it is a frequent subject of counterfeit/IP enforcement on marketplaces.",
+        "ja": "このブランドは規約で無許可転売を制限しているとの報告があり、マーケットプレイスでの真贋調査の対象になりやすいとされています。"
+      },
+      "sourceUrl": "https://ecstarslab.com/blog/terms-and-conditions-prohibited/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "resale-newbalance",
+      "keywords": [
+        "ニューバランス",
+        "New Balance"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "en": "Reports that this brand's terms restrict resale by unauthorized sellers, and it is a frequent subject of counterfeit/IP enforcement on marketplaces.",
+        "ja": "このブランドは規約で無許可転売を制限しているとの報告があり、マーケットプレイスでの真贋調査の対象になりやすいとされています。"
+      },
+      "sourceUrl": "https://ecstarslab.com/blog/terms-and-conditions-prohibited/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "resale-adidas",
+      "keywords": [
+        "アディダス",
+        "adidas"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "en": "Reports that this brand's terms restrict resale by unauthorized sellers, and it is a frequent subject of counterfeit/IP enforcement on marketplaces.",
+        "ja": "このブランドは規約で無許可転売を制限しているとの報告があり、マーケットプレイスでの真贋調査の対象になりやすいとされています。"
+      },
+      "sourceUrl": "https://ecstarslab.com/blog/terms-and-conditions-prohibited/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "resale-chanel",
+      "keywords": [
+        "シャネル",
+        "CHANEL"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "en": "Reports that this luxury brand's terms restrict resale by unauthorized sellers, and it is a frequent subject of counterfeit enforcement.",
+        "ja": "この高級ブランドは規約で無許可転売を制限しているとの報告があり、模倣品対策の対象になりやすいとされています。"
+      },
+      "sourceUrl": "https://ecstarslab.com/blog/terms-and-conditions-prohibited/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "resale-hermes",
+      "keywords": [
+        "エルメス",
+        "HERMES"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "en": "Reports that this luxury brand's terms restrict resale by unauthorized sellers, and it is a frequent subject of counterfeit enforcement.",
+        "ja": "この高級ブランドは規約で無許可転売を制限しているとの報告があり、模倣品対策の対象になりやすいとされています。"
+      },
+      "sourceUrl": "https://ecstarslab.com/blog/terms-and-conditions-prohibited/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "resale-bvlgari",
+      "keywords": [
+        "ブルガリ",
+        "BVLGARI"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "en": "Reports that this luxury brand's terms restrict resale by unauthorized sellers, and it is a frequent subject of counterfeit enforcement.",
+        "ja": "この高級ブランドは規約で無許可転売を制限しているとの報告があり、模倣品対策の対象になりやすいとされています。"
+      },
+      "sourceUrl": "https://ecstarslab.com/blog/terms-and-conditions-prohibited/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "resale-coleman",
+      "keywords": [
+        "コールマン",
+        "Coleman"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "en": "Reports that this outdoor-gear brand's terms restrict resale by unauthorized sellers.",
+        "ja": "このアウトドアブランドは規約で無許可転売を制限しているとの報告があります。"
+      },
+      "sourceUrl": "https://ecstarslab.com/blog/terms-and-conditions-prohibited/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "resale-yodobashi",
+      "keywords": [
+        "ヨドバシカメラ",
+        "ヨドバシ",
+        "Yodobashi"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "en": "Reports that this retailer's terms restrict resale of items purchased from its stores by unauthorized sellers.",
+        "ja": "この小売店は自社で購入した商品の無許可転売を規約で制限しているとの報告があります。"
+      },
+      "sourceUrl": "https://ecstarslab.com/blog/terms-and-conditions-prohibited/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "resale-bic-camera",
+      "keywords": [
+        "ビックカメラ",
+        "ビック",
+        "Bic Camera"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "en": "Reports that this retailer's terms restrict resale of items purchased from its stores by unauthorized sellers.",
+        "ja": "この小売店は自社で購入した商品の無許可転売を規約で制限しているとの報告があります。"
+      },
+      "sourceUrl": "https://ecstarslab.com/blog/terms-and-conditions-prohibited/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "resale-yamada-denki",
+      "keywords": [
+        "ヤマダ電機",
+        "ヤマダデンキ",
+        "YAMADA"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "en": "Reports that this retailer's terms restrict resale of items purchased from its stores by unauthorized sellers.",
+        "ja": "この小売店は自社で購入した商品の無許可転売を規約で制限しているとの報告があります。"
+      },
+      "sourceUrl": "https://ecstarslab.com/blog/terms-and-conditions-prohibited/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "counterfeit-apple",
+      "keywords": [
+        "Apple",
+        "アップル"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "en": "Widely reported as one of the brands most frequently subject to counterfeit/IP investigation on online marketplaces. Verify authenticity documentation before listing.",
+        "ja": "オンラインマーケットプレイスで真贋調査・商標対応の対象になりやすいブランドの一つとして広く報告されています。出品前に真贋確認の裏付けをご確認ください。"
+      },
+      "sourceUrl": "https://product-sales-creator.com/distinguish-prohibited-goods/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "counterfeit-sony",
+      "keywords": [
+        "ソニー",
+        "SONY",
+        "Sony"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "en": "Reports of frequent counterfeit/IP investigation on marketplaces for this brand's electronics and accessories.",
+        "ja": "この家電・周辺機器ブランドはマーケットプレイスでの真贋調査の対象になりやすいとの報告があります。"
+      },
+      "sourceUrl": "https://product-sales-creator.com/distinguish-prohibited-goods/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "counterfeit-nintendo",
+      "keywords": [
+        "任天堂",
+        "Nintendo"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "en": "Reports of frequent counterfeit/IP investigation on marketplaces for this brand's games and accessories.",
+        "ja": "このゲームブランドはマーケットプレイスでの真贋調査の対象になりやすいとの報告があります。"
+      },
+      "sourceUrl": "https://product-sales-creator.com/distinguish-prohibited-goods/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "counterfeit-pokemon",
+      "keywords": [
+        "ポケモン",
+        "Pokemon",
+        "ポケットモンスター"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "en": "Reports of frequent counterfeit/IP investigation on marketplaces for this brand's cards and merchandise.",
+        "ja": "このブランドのカード・グッズはマーケットプレイスでの真贋調査の対象になりやすいとの報告があります。"
+      },
+      "sourceUrl": "https://product-sales-creator.com/distinguish-prohibited-goods/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "counterfeit-lego",
+      "keywords": [
+        "レゴ",
+        "LEGO"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "en": "Reports of frequent counterfeit/IP investigation on marketplaces for this brand's building-block sets.",
+        "ja": "このブロック玩具ブランドはマーケットプレイスでの真贋調査の対象になりやすいとの報告があります。"
+      },
+      "sourceUrl": "https://product-sales-creator.com/distinguish-prohibited-goods/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "counterfeit-anker",
+      "keywords": [
+        "Anker",
+        "アンカー"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "en": "Reports of frequent counterfeit/IP investigation on marketplaces for this brand's chargers and cables, due to widespread imitation products.",
+        "ja": "この充電器・ケーブルブランドは模倣品が多く、マーケットプレイスでの真贋調査の対象になりやすいとの報告があります。"
+      },
+      "sourceUrl": "https://product-sales-creator.com/distinguish-prohibited-goods/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "counterfeit-casio",
+      "keywords": [
+        "カシオ",
+        "CASIO"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "en": "Reports of frequent counterfeit/IP investigation on marketplaces for this brand's watches and calculators (e.g. G-SHOCK).",
+        "ja": "この時計・電卓ブランド（G-SHOCK等）はマーケットプレイスでの真贋調査の対象になりやすいとの報告があります。"
+      },
+      "sourceUrl": "https://product-sales-creator.com/distinguish-prohibited-goods/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "counterfeit-panasonic",
+      "keywords": [
+        "パナソニック",
+        "Panasonic"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "en": "Reports of counterfeit accessories (batteries, chargers) circulating under this brand name, drawing marketplace investigation.",
+        "ja": "この家電ブランドは互換バッテリー・充電器等の模倣品流通が報告されており、真贋調査の対象になりやすいとされています。"
+      },
+      "sourceUrl": "https://product-sales-creator.com/distinguish-prohibited-goods/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "counterfeit-dyson",
+      "keywords": [
+        "ダイソン",
+        "Dyson"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "en": "Reports of frequent counterfeit/IP investigation on marketplaces for this brand's appliances and accessories.",
+        "ja": "この家電ブランドはマーケットプレイスでの真贋調査の対象になりやすいとの報告があります。"
+      },
+      "sourceUrl": "https://product-sales-creator.com/distinguish-prohibited-goods/",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "regulated-quasi-drug",
+      "keywords": [
+        "医薬部外品"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "en": "Quasi-drugs require Amazon seller approval and applicable licenses before listing (Pharmaceutical and Medical Device Act).",
+        "ja": "医薬部外品はAmazonの出品許可申請と該当する許認可（薬機法）が必要な規制カテゴリです。"
+      },
+      "sourceUrl": "https://sellercentral.amazon.co.jp/help/hub/reference/external/200333160",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "regulated-alcohol",
+      "keywords": [
+        "酒類"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "en": "Alcoholic beverages require Amazon seller approval and a liquor sales license before listing.",
+        "ja": "酒類はAmazonの出品許可申請と酒類販売業免許が必要な規制カテゴリです。"
+      },
+      "sourceUrl": "https://sellercentral.amazon.co.jp/help/hub/reference/external/200333160",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "regulated-cosmetics",
+      "keywords": [
+        "化粧品"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "en": "Cosmetics can require Amazon seller approval depending on sub-category; confirm before listing.",
+        "ja": "化粧品はサブカテゴリーによってAmazonの出品許可申請が必要な場合があります。出品前にご確認ください。"
+      },
+      "sourceUrl": "https://sellercentral.amazon.co.jp/help/hub/reference/external/200333160",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "regulated-refrigerated",
+      "keywords": [
+        "要冷蔵"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "en": "Items requiring refrigeration involve temperature-controlled handling rules; confirm compliance before listing as FBA.",
+        "ja": "要冷蔵商品は温度帯管理のルールが適用されます。FBA出品前に対応可否をご確認ください。"
+      },
+      "sourceUrl": "https://sellercentral.amazon.co.jp/help/hub/reference/external/200333160",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "regulated-medical-device",
+      "keywords": [
+        "医療機器"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "en": "Medical devices require Amazon seller approval and applicable licenses before listing (Pharmaceutical and Medical Device Act).",
+        "ja": "医療機器はAmazonの出品許可申請と該当する許認可（薬機法）が必要な規制カテゴリです。"
+      },
+      "sourceUrl": "https://sellercentral.amazon.co.jp/help/hub/reference/external/200333160",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "regulated-pesticide",
+      "keywords": [
+        "農薬"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "en": "Pesticides are a restricted category requiring Amazon seller approval before listing.",
+        "ja": "農薬はAmazonの出品許可申請が必要な規制カテゴリです。"
+      },
+      "sourceUrl": "https://sellercentral.amazon.co.jp/help/hub/reference/external/200333160",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "regulated-pse",
+      "keywords": [
+        "PSE"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "en": "Used electrical appliances subject to Japan's Electrical Appliance and Material Safety Act (PSE) may require compliance marks/documentation before resale.",
+        "ja": "中古の対象電気用品は電気用品安全法（PSE）の対象となる場合があり、出品には表示・書類の確認が必要です。"
+      },
+      "sourceUrl": "https://sellercentral.amazon.co.jp/help/hub/reference/external/200333160",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "new-condition-outlet",
+      "keywords": [
+        "アウトレット",
+        "Outlet"
+      ],
+      "type": "new_condition_prohibited",
+      "reason": {
+        "en": "Outlet/clearance-sourced items are commonly ineligible to list as \"New\" per Amazon's Condition Guidelines when not from an authorized distributor. Consider a used-condition listing instead.",
+        "ja": "アウトレット・在庫処分品は正規代理店以外からの仕入れの場合、コンディションガイドライン上「新品」として出品できないことが多いとされています。中古コンディションでの出品もご検討ください。"
+      },
+      "sourceUrl": "https://sellercentral.amazon.co.jp/help/hub/reference/external/200339950",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "new-condition-wakeari",
+      "keywords": [
+        "訳あり"
+      ],
+      "type": "new_condition_prohibited",
+      "reason": {
+        "en": "Items marked as \"discounted for a reason\" (blemished/imperfect stock) are commonly ineligible to list as \"New\" per Amazon's Condition Guidelines.",
+        "ja": "「訳あり」表記の商品はコンディションガイドライン上「新品」として出品できないことが多いとされています。"
+      },
+      "sourceUrl": "https://sellercentral.amazon.co.jp/help/hub/reference/external/200339950",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "new-condition-katafure",
+      "keywords": [
+        "型落ち"
+      ],
+      "type": "new_condition_prohibited",
+      "reason": {
+        "en": "Previous-generation/close-out electronics sourced outside authorized channels may not qualify as \"New\" per Amazon's Condition Guidelines even if unused.",
+        "ja": "型落ち品は未使用であっても、正規販路以外からの仕入れではコンディションガイドライン上「新品」に該当しない場合があります。"
+      },
+      "sourceUrl": "https://sellercentral.amazon.co.jp/help/hub/reference/external/200339950",
+      "updatedAt": "2026-07-09",
+      "addedAt": "2026-07-09"
+    },
+    {
+      "id": "counterfeit-1",
+      "keywords": [
+        "集英社",
+        "Shueisha"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-sharp",
+      "keywords": [
+        "SHARP",
+        "シャープ"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-toshiba",
+      "keywords": [
+        "TOSHIBA",
+        "東芝"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-jbl",
+      "keywords": [
+        "JBL"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-philips",
+      "keywords": [
+        "Philips"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-ya-man",
+      "keywords": [
+        "YA-MAN"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-shop-japan",
+      "keywords": [
+        "Shop Japan"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-siroca",
+      "keywords": [
+        "siroca"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-2",
+      "keywords": [
+        "アイリスオーヤマ",
+        "Iris Ohyama"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-yamazen",
+      "keywords": [
+        "YAMAZEN"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-tiger",
+      "keywords": [
+        "TIGER",
+        "タイガー魔法瓶",
+        "TIGER Corporation"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-samsung",
+      "keywords": [
+        "Samsung",
+        "サムスン"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-canon",
+      "keywords": [
+        "Canon",
+        "キヤノン"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-epson",
+      "keywords": [
+        "EPSON",
+        "エプソン"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-fujifilm",
+      "keywords": [
+        "FUJIFILM",
+        "富士フイルム"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-buffalo",
+      "keywords": [
+        "BUFFALO"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-areti",
+      "keywords": [
+        "Areti"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-3",
+      "keywords": [
+        "サンワサプライ"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-4",
+      "keywords": [
+        "京セラ",
+        "Kyocera"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-gopro",
+      "keywords": [
+        "GoPro"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-5",
+      "keywords": [
+        "サイバーガジェット"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-6",
+      "keywords": [
+        "グッドスマイルカンパニー"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-7",
+      "keywords": [
+        "ウッディプッディ"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-8",
+      "keywords": [
+        "明月堂"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-9",
+      "keywords": [
+        "雪印",
+        "Snow Brand"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-10",
+      "keywords": [
+        "カルビー",
+        "Calbee"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-11",
+      "keywords": [
+        "森永",
+        "Morinaga"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-12",
+      "keywords": [
+        "日清食品",
+        "Nissin Foods"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-13",
+      "keywords": [
+        "コブチャクレンズ"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-dydo",
+      "keywords": [
+        "DyDo"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-maison-lexia",
+      "keywords": [
+        "MAISON LEXIA"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-creme-de-ann",
+      "keywords": [
+        "creme de Ann"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-stefany",
+      "keywords": [
+        "STEFANY"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-14",
+      "keywords": [
+        "資生堂",
+        "Shiseido"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-15",
+      "keywords": [
+        "エムズワン"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-16",
+      "keywords": [
+        "ビタブリッドジャパン"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "counterfeit-nitori",
+      "keywords": [
+        "NITORI",
+        "ニトリ"
+      ],
+      "type": "counterfeit_investigation",
+      "reason": {
+        "ja": "一部のせどり情報サイトで真贋調査の対象になったとの報告があります（情報源は限定的・参考程度に）。",
+        "en": "Some seller-info sites report authenticity investigations for this brand (single-source; treat as informational)."
+      },
+      "sourceUrl": "https://jiro-info.com/1135/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24",
+      "confidence": "low"
+    },
+    {
+      "id": "resale-dns",
+      "keywords": [
+        "DNS"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "DNSは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for DNS. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://shop.dnszone.jp/shop/pages/faq010101.aspx",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-tiffany",
+      "keywords": [
+        "Tiffany",
+        "ティファニー"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "Tiffanyは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for Tiffany. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://tiffanyco.jp/pages/terms-of-use",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-christian-louboutin",
+      "keywords": [
+        "Christian Louboutin",
+        "クリスチャン ルブタン"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "Christian Louboutinは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for Christian Louboutin. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://jp.christianlouboutin.com/jp_ja/terms-of-sale.html",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-orbis",
+      "keywords": [
+        "ORBIS"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "ORBISは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for ORBIS. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://www.orbis.co.jp/contents/terms/index/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-takami",
+      "keywords": [
+        "TAKAMI"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "TAKAMIは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for TAKAMI. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://www.takami-labo.com/information/terms",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-three",
+      "keywords": [
+        "THREE"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "THREEは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for THREE. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://www.threecosmetics.com/onlineshop/pages/terms.aspx",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-neur",
+      "keywords": [
+        "_NEUR"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "_NEURは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for _NEUR. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://neur.jp/shop/customer_term",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-fromco2",
+      "keywords": [
+        "fromCO2"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "fromCO2は公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for fromCO2. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://kirei-cosme.jp/guide/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-ryu-spa",
+      "keywords": [
+        "Ryu Spa"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "Ryu Spaは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for Ryu Spa. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://www.ryuspa.shop/f/about",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-hair-theory-lab",
+      "keywords": [
+        "Hair Theory Lab"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "Hair Theory Labは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for Hair Theory Lab. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://hairtheory-lab.jp/info/customer_term",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-1",
+      "keywords": [
+        "コスメ・デ・ボーテ"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "コスメ・デ・ボーテは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for コスメ・デ・ボーテ. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://shop-cosmedebeaute.com/blogs/news/20230724",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-miruto",
+      "keywords": [
+        "miruto"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "mirutoは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for miruto. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://www.miruto.shop/policies/terms-of-service",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-fabius",
+      "keywords": [
+        "FABIUS"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "FABIUSは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for FABIUS. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://fabius.co.jp/return",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-haba",
+      "keywords": [
+        "HABA"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "HABAは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for HABA. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://www.haba.co.jp/info/CHSfFaqDetail.jsp?faqCd=1&faqSortNo=4",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-2",
+      "keywords": [
+        "ハマリ"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "ハマリは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for ハマリ. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://www.hamari-health.jp/shop/guide",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-3",
+      "keywords": [
+        "ナチュラルポケット"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "ナチュラルポケットは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for ナチュラルポケット. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://www.natural-pocket.jp/view/guide",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-4",
+      "keywords": [
+        "ハピネスダイレクト"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "ハピネスダイレクトは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for ハピネスダイレクト. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://www.happiness-direct.com/shop/pages/other.aspx",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-bedy",
+      "keywords": [
+        "Bedy"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "Bedyは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for Bedy. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://bedy.jp/shop/law_info",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-ishiya",
+      "keywords": [
+        "ISHIYA"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "ISHIYAは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for ISHIYA. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://shop.ishiya.co.jp/blogs/news/tenbaikinshi",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-barefootinc",
+      "keywords": [
+        "Barefootinc"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "Barefootincは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for Barefootinc. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://www.barefootinc.jp/view/news/20250530104031",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-kadokawa",
+      "keywords": [
+        "KADOKAWA カドスト"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "KADOKAWA カドストは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for KADOKAWA カドスト. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://store.kadokawa.co.jp/shop/pages/guide.aspx",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-5",
+      "keywords": [
+        "宙フェス夜市"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "宙フェス夜市は公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for 宙フェス夜市. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://market.sorafes.com/pages/terms",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-nychair-x",
+      "keywords": [
+        "Nychair X"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "Nychair Xは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for Nychair X. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://www.nychairx.jp/information/1925/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-6",
+      "keywords": [
+        "グラマープリンセス"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "グラマープリンセスは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for グラマープリンセス. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://glamour-princess.co.jp/pages/guide",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-bright-hawk",
+      "keywords": [
+        "BRIGHT HAWK"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "BRIGHT HAWKは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for BRIGHT HAWK. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://bright-hawk.com/%E5%95%86%E5%93%81%E3%81%AE%E7%84%A1%E6%96%AD%E8%B2%A9%E5%A3%B2%E3%83%BB%E8%BB%A2%E5%A3%B2%E3%81%AE%E7%A6%81%E6%AD%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-7",
+      "keywords": [
+        "ジェニックジャパン"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "ジェニックジャパンは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for ジェニックジャパン. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://shop.jenicjapan.com/view/contract",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-adget",
+      "keywords": [
+        "adget"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "adgetは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for adget. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://adget.tokyo/pages/warranty",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-irobot",
+      "keywords": [
+        "iRobot",
+        "アイロボット"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "iRobotは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for iRobot. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://faq.irobot.com/ja/appanswersguest",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-void-gaming",
+      "keywords": [
+        "Void Gaming"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "Void Gamingは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for Void Gaming. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://voidgaming.jp/en/pages/genesis-manual",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-suwada",
+      "keywords": [
+        "SUWADA"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "SUWADAは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for SUWADA. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://www.suwada.co.jp/news_ja/37936",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-8",
+      "keywords": [
+        "新日本製薬"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "新日本製薬は公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for 新日本製薬. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://item.rakuten.co.jp/shinnihonseiyaku/4203/",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "resale-missha-japan",
+      "keywords": [
+        "MISSHA Japan"
+      ],
+      "type": "resale_prohibited",
+      "reason": {
+        "ja": "MISSHA Japanは公式規約・声明で無許可転売の禁止・制限が示されています。出品前に最新の規約をご確認ください。",
+        "en": "Reports that this brand/retailer's official terms or statements prohibit or restrict unauthorized resale for MISSHA Japan. Confirm current policy before listing."
+      },
+      "sourceUrl": "https://www.misshajp.com/shop/pages/faq.aspx",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-amazon",
+      "keywords": [
+        "Amazon限定商品"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "Amazon限定商品はAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "Amazon限定商品 is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sellercentral.amazon.co.jp/seller-forums/discussions/t/15d612203bb0def5fdd57dbcd9c0d10f",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-1",
+      "keywords": [
+        "イタリア製品"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "イタリア製品はAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "イタリア製品 is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sellercentral.amazon.co.jp/seller-forums/discussions/t/15d612203bb0def5fdd57dbcd9c0d10f",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-2",
+      "keywords": [
+        "ストリーミングメディアプレーヤー"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "ストリーミングメディアプレーヤーはAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "ストリーミングメディアプレーヤー is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sellercentral.amazon.co.jp/seller-forums/discussions/t/15d612203bb0def5fdd57dbcd9c0d10f",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-asin",
+      "keywords": [
+        "ブランド単位/ASIN単位制限"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "ブランド単位/ASIN単位制限はAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "ブランド単位/ASIN単位制限 is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sellercentral.amazon.co.jp/seller-forums/discussions/t/15d612203bb0def5fdd57dbcd9c0d10f",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-3",
+      "keywords": [
+        "酒類"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "酒類はAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "酒類 is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sell.amazon.co.jp/sell",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-4",
+      "keywords": [
+        "動物および動物材料商品"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "動物および動物材料商品はAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "動物および動物材料商品 is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sell.amazon.co.jp/sell",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-5",
+      "keywords": [
+        "自動車用品"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "自動車用品はAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "自動車用品 is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sell.amazon.co.jp/sell",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-6",
+      "keywords": [
+        "通貨・硬貨・現金同等品"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "通貨・硬貨・現金同等品はAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "通貨・硬貨・現金同等品 is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sell.amazon.co.jp/sell",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-7",
+      "keywords": [
+        "医薬部外品および化粧品"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "医薬部外品および化粧品はAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "医薬部外品および化粧品 is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sell.amazon.co.jp/sell",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-8",
+      "keywords": [
+        "栄養補助食品"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "栄養補助食品はAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "栄養補助食品 is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sell.amazon.co.jp/sell",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-9",
+      "keywords": [
+        "医薬品"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "医薬品はAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "医薬品 is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sell.amazon.co.jp/sell",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-10",
+      "keywords": [
+        "武器および武器を模した商品"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "武器および武器を模した商品はAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "武器および武器を模した商品 is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sell.amazon.co.jp/sell",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-11",
+      "keywords": [
+        "食品&飲料"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "食品&飲料はAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "食品&飲料 is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sell.amazon.co.jp/sell",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-12",
+      "keywords": [
+        "アダルト商品"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "アダルト商品はAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "アダルト商品 is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sell.amazon.co.jp/sell",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-13",
+      "keywords": [
+        "不快感を与える商品"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "不快感を与える商品はAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "不快感を与える商品 is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sell.amazon.co.jp/sell",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-14",
+      "keywords": [
+        "Amazonデバイス修理・保守アクセサリ"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "Amazonデバイス修理・保守アクセサリはAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "Amazonデバイス修理・保守アクセサリ is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sell.amazon.co.jp/sell",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-15",
+      "keywords": [
+        "電化製品・電子機器"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "電化製品・電子機器はAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "電化製品・電子機器 is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sell.amazon.co.jp/sell",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-16",
+      "keywords": [
+        "レーザーポインター関連商品"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "レーザーポインター関連商品はAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "レーザーポインター関連商品 is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sell.amazon.co.jp/sell",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-17",
+      "keywords": [
+        "医療機器取扱い"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "医療機器取扱いはAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "医療機器取扱い is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sell.amazon.co.jp/sell",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-18",
+      "keywords": [
+        "盗品・ロックピッキング装置"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "盗品・ロックピッキング装置はAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "盗品・ロックピッキング装置 is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sell.amazon.co.jp/sell",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-19",
+      "keywords": [
+        "医療機器および関連商品"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "医療機器および関連商品はAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "医療機器および関連商品 is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sell.amazon.co.jp/sell",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-20",
+      "keywords": [
+        "植物・植物由来製品・種子"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "植物・植物由来製品・種子はAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "植物・植物由来製品・種子 is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sell.amazon.co.jp/sell",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-21",
+      "keywords": [
+        "リコール対象商品"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "リコール対象商品はAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "リコール対象商品 is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sell.amazon.co.jp/sell",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-22",
+      "keywords": [
+        "タバコ関連商品"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "タバコ関連商品はAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "タバコ関連商品 is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sell.amazon.co.jp/sell",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-23",
+      "keywords": [
+        "化学物質・農薬・肥料"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "化学物質・農薬・肥料はAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "化学物質・農薬・肥料 is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sell.amazon.co.jp/sell",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-24",
+      "keywords": [
+        "リサイクル家電"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "リサイクル家電はAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "リサイクル家電 is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sell.amazon.co.jp/sell",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-25",
+      "keywords": [
+        "食品カテゴリー"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "食品カテゴリーはAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "食品カテゴリー is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sell.amazon.co.jp/grow/category/grocery",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-26",
+      "keywords": [
+        "ビューティー/化粧品"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "ビューティー/化粧品はAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "ビューティー/化粧品 is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sell.amazon.co.jp/grow/category/beauty",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "restricted-27",
+      "keywords": [
+        "製品コード免除対象商品"
+      ],
+      "type": "amazon_restricted",
+      "reason": {
+        "ja": "製品コード免除対象商品はAmazonで出品許可の申請が必要になる可能性がある商品/カテゴリーとして案内されています。出品前にセラーセントラルでカテゴリー要件をご確認ください。",
+        "en": "製品コード免除対象商品 is listed by Amazon as a product/category that may require seller approval before listing. Confirm category requirements in Seller Central before listing."
+      },
+      "sourceUrl": "https://sellercentral.amazon.co.jp/seller-forums/discussions/t/fdb9361c9eb7a0fa976890e5d4cabe30",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-1",
+      "keywords": [
+        "一般用医薬品の店舗販売"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "一般用医薬品の店舗販売は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。薬機法で店舗販売業許可区分が定められています。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "一般用医薬品の店舗販売 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=81004000&dataType=0",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-2",
+      "keywords": [
+        "医薬品の配置販売"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "医薬品の配置販売は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。薬機法で配置販売業許可区分が定められています。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "医薬品の配置販売 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=81004000&dataType=0",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-3",
+      "keywords": [
+        "医薬品の卸売販売"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "医薬品の卸売販売は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。薬機法で卸売販売業許可区分が定められています。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "医薬品の卸売販売 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=81004000&dataType=0",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-4",
+      "keywords": [
+        "第一類医薬品"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "第一類医薬品は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。販売体制に薬剤師勤務等の基準があります。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "第一類医薬品 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=81011000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-5",
+      "keywords": [
+        "第二類医薬品"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "第二類医薬品は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。薬剤師または登録販売者の体制基準があります。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "第二類医薬品 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=81011000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-6",
+      "keywords": [
+        "第三類医薬品"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "第三類医薬品は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。薬剤師または登録販売者の体制基準があります。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "第三類医薬品 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=81011000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-7",
+      "keywords": [
+        "高度管理医療機器"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "高度管理医療機器は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。販売業者等に営業所管理者設置等が求められます。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "高度管理医療機器 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000108366.html",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-8",
+      "keywords": [
+        "特定保守管理医療機器"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "特定保守管理医療機器は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。高度管理医療機器等と同様に営業所管理者制度があります。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "特定保守管理医療機器 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000108366.html",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-9",
+      "keywords": [
+        "特定管理医療機器"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "特定管理医療機器は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。販売業者等に営業所管理者の設置が義務づけられています。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "特定管理医療機器 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000108366.html",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-10",
+      "keywords": [
+        "中古医療機器"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "中古医療機器は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。中古品販売等では製造販売業者への通知・指示記録等が示されています。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "中古医療機器 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc0918&dataType=1&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-11",
+      "keywords": [
+        "化粧品製造販売"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "化粧品製造販売は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。化粧品の製造販売業は薬機法上の許可対象です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "化粧品製造販売 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=00ta7005&dataType=1&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-12",
+      "keywords": [
+        "医薬部外品製造販売"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "医薬部外品製造販売は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。医薬部外品の製造販売業は薬機法上の許可対象です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "医薬部外品製造販売 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=00ta7005&dataType=1&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-13",
+      "keywords": [
+        "化粧品輸入販売"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "化粧品輸入販売は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。化粧品等の輸入販売業許可に関する通知があります。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "化粧品輸入販売 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=00ta7005&dataType=1&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-14",
+      "keywords": [
+        "医薬部外品輸入販売"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "医薬部外品輸入販売は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。医薬部外品等の輸入販売業許可に関する通知があります。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "医薬部外品輸入販売 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=00ta7005&dataType=1&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-15",
+      "keywords": [
+        "毒物販売"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "毒物販売は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。毒物劇物営業者の登録制度があります。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "毒物販売 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/dokugeki.html",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-16",
+      "keywords": [
+        "劇物販売"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "劇物販売は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。毒物劇物営業者の登録制度があります。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "劇物販売 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/dokugeki.html",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-17",
+      "keywords": [
+        "毒物劇物製造"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "毒物劇物製造は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。製造・輸入・販売等を行う方が規制対象です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "毒物劇物製造 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/dokugeki_kisei_gaiyou_00001.html",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-18",
+      "keywords": [
+        "毒物劇物輸入"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "毒物劇物輸入は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。製造・輸入・販売等を行う方が規制対象です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "毒物劇物輸入 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/dokugeki_kisei_gaiyou_00001.html",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-19",
+      "keywords": [
+        "古物全般"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "古物全般は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。古物商許可と相手方確認義務が案内されています。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "古物全般 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.keishicho.metro.tokyo.lg.jp/tetsuzuki/kobutsu/kaisetsu/kobutsu_shinsei.html",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-20",
+      "keywords": [
+        "ネット古物取引"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "ネット古物取引は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。ネット取引では許可番号等の表示義務があります。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "ネット古物取引 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.keishicho.metro.tokyo.lg.jp/tetsuzuki/kobutsu/kaisetsu/kobutsu_shinsei.html",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-21",
+      "keywords": [
+        "中古貴金属"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "中古貴金属は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。古物である貴金属等の売買は犯罪収益移転防止法上の特定事業者に該当し得ます。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "中古貴金属 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.keishicho.metro.tokyo.lg.jp/tetsuzuki/kobutsu/kaisetsu/kobutsu_shinsei.html",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-22",
+      "keywords": [
+        "酒類販売"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "酒類販売は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。酒類販売業は販売場ごとの免許が必要です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "酒類販売 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.nta.go.jp/taxes/sake/qa/03b/08.htm",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-23",
+      "keywords": [
+        "通信販売酒類小売"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "通信販売酒類小売は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。広域通信販売では通信販売酒類小売業免許の対象と説明されています。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "通信販売酒類小売 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.nta.go.jp/taxes/sake/qa/03b/08.htm",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-24",
+      "keywords": [
+        "一般酒類小売"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "一般酒類小売は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。同一県内等のネット販売は一般酒類小売業免許の対象となる場合があります。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "一般酒類小売 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.nta.go.jp/taxes/sake/qa/03b/08.htm",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-25",
+      "keywords": [
+        "酒類卸売"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "酒類卸売は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。酒類卸売業免許の制度が案内されています。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "酒類卸売 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.nta.go.jp/taxes/sake/menkyo/sake_beer/index.htm",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-26",
+      "keywords": [
+        "ビール卸売"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "ビール卸売は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。ビール卸売業免許の制度が案内されています。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "ビール卸売 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.nta.go.jp/taxes/sake/menkyo/sake_beer/index.htm",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-27",
+      "keywords": [
+        "犬猫用ペットフード製造"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "犬猫用ペットフード製造は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。ペットフード製造は事業開始前の届出が必要です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "犬猫用ペットフード製造 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.maff.go.jp/tokai/shohi/anzen/petfood/index.html",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-28",
+      "keywords": [
+        "犬猫用ペットフード輸入販売"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "犬猫用ペットフード輸入販売は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。ペットフード輸入販売は事業開始前の届出が必要です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "犬猫用ペットフード輸入販売 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.maff.go.jp/tokai/shohi/anzen/petfood/index.html",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-29",
+      "keywords": [
+        "ペットフード卸売販売"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "ペットフード卸売販売は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。製造・輸入・卸売販売では帳簿備付けが必要です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "ペットフード卸売販売 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.maff.go.jp/tokai/shohi/anzen/petfood/index.html",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-30",
+      "keywords": [
+        "飼料製造"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "飼料製造は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。飼料の製造は飼料安全法に基づく届出対象です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "飼料製造 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.maff.go.jp/j/syouan/tikusui/siryo/siryo_jigyosya.html",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-31",
+      "keywords": [
+        "飼料輸入"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "飼料輸入は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。飼料の輸入は飼料安全法に基づく届出対象です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "飼料輸入 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.maff.go.jp/j/syouan/tikusui/siryo/siryo_jigyosya.html",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-32",
+      "keywords": [
+        "飼料販売"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "飼料販売は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。飼料の販売は飼料安全法に基づく届出対象です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "飼料販売 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.maff.go.jp/j/syouan/tikusui/siryo/siryo_jigyosya.html",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-33",
+      "keywords": [
+        "食品輸入"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "食品輸入は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。販売目的の食品輸入は検疫所への輸入届出が必要です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "食品輸入 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000144562.html",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-34",
+      "keywords": [
+        "食品添加物輸入"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "食品添加物輸入は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。販売目的の食品添加物輸入は輸入届出対象です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "食品添加物輸入 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000144562.html",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-35",
+      "keywords": [
+        "食品用器具輸入"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "食品用器具輸入は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品用器具も輸入届出対象に含まれます。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "食品用器具輸入 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000144562.html",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-36",
+      "keywords": [
+        "食品容器包装輸入"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "食品容器包装輸入は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。容器包装も食品衛生法上の輸入届出対象に含まれます。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "食品容器包装輸入 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000144562.html",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-37",
+      "keywords": [
+        "乳幼児用おもちゃ輸入"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "乳幼児用おもちゃ輸入は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。乳幼児用おもちゃも食品衛生法上の輸入届出対象に含まれます。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "乳幼児用おもちゃ輸入 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000144562.html",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-38",
+      "keywords": [
+        "飲食店営業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "飲食店営業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "飲食店営業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-39",
+      "keywords": [
+        "調理機能付き自動販売機"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "調理機能付き自動販売機は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "調理機能付き自動販売機 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-40",
+      "keywords": [
+        "食肉販売業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "食肉販売業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "食肉販売業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-41",
+      "keywords": [
+        "魚介類販売業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "魚介類販売業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "魚介類販売業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-42",
+      "keywords": [
+        "魚介類競り売り営業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "魚介類競り売り営業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "魚介類競り売り営業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-43",
+      "keywords": [
+        "集乳業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "集乳業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "集乳業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-44",
+      "keywords": [
+        "乳処理業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "乳処理業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "乳処理業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-45",
+      "keywords": [
+        "特別牛乳搾取処理業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "特別牛乳搾取処理業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "特別牛乳搾取処理業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-46",
+      "keywords": [
+        "食肉処理業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "食肉処理業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "食肉処理業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-47",
+      "keywords": [
+        "食品の放射線照射業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "食品の放射線照射業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "食品の放射線照射業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-48",
+      "keywords": [
+        "菓子製造業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "菓子製造業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "菓子製造業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-49",
+      "keywords": [
+        "アイスクリーム類製造業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "アイスクリーム類製造業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "アイスクリーム類製造業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-50",
+      "keywords": [
+        "乳製品製造業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "乳製品製造業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "乳製品製造業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-51",
+      "keywords": [
+        "清涼飲料水製造業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "清涼飲料水製造業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "清涼飲料水製造業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-52",
+      "keywords": [
+        "食肉製品製造業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "食肉製品製造業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "食肉製品製造業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-53",
+      "keywords": [
+        "水産製品製造業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "水産製品製造業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "水産製品製造業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-54",
+      "keywords": [
+        "氷雪製造業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "氷雪製造業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "氷雪製造業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-55",
+      "keywords": [
+        "液卵製造業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "液卵製造業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "液卵製造業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-56",
+      "keywords": [
+        "食用油脂製造業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "食用油脂製造業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "食用油脂製造業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-57",
+      "keywords": [
+        "みそ又はしょうゆ製造業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "みそ又はしょうゆ製造業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "みそ又はしょうゆ製造業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-58",
+      "keywords": [
+        "酒類製造業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "酒類製造業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "酒類製造業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-59",
+      "keywords": [
+        "豆腐製造業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "豆腐製造業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "豆腐製造業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-60",
+      "keywords": [
+        "納豆製造業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "納豆製造業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "納豆製造業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-61",
+      "keywords": [
+        "麺類製造業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "麺類製造業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "麺類製造業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-62",
+      "keywords": [
+        "そうざい製造業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "そうざい製造業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "そうざい製造業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-63",
+      "keywords": [
+        "複合型そうざい製造業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "複合型そうざい製造業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "複合型そうざい製造業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-64",
+      "keywords": [
+        "冷凍食品製造業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "冷凍食品製造業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "冷凍食品製造業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-65",
+      "keywords": [
+        "複合型冷凍食品製造業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "複合型冷凍食品製造業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "複合型冷凍食品製造業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-66",
+      "keywords": [
+        "漬物製造業"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "漬物製造業は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法施行令の営業許可対象業種です。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "漬物製造業 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=78331000&dataType=0&pageNo=1",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-67",
+      "keywords": [
+        "営業届出対象食品販売"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "営業届出対象食品販売は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品衛生法改正で営業届出制度が創設されています。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "営業届出対象食品販売 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/kigu/index_00010.html",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-68",
+      "keywords": [
+        "容器包装済み食品販売"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "容器包装済み食品販売は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。小規模営業者等の衛生管理対象として例示されています。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "容器包装済み食品販売 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/haccp/01_00019.html",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    },
+    {
+      "id": "regulated-69",
+      "keywords": [
+        "食品小分け販売"
+      ],
+      "type": "regulated_category",
+      "reason": {
+        "ja": "食品小分け販売は関連法令上の許可・免許・届出等が必要な場合がある規制カテゴリです。食品を分割・包装して小売販売する営業者が制度対象として示されています。出品・販売前に該当法令の最新要件をご確認ください。",
+        "en": "食品小分け販売 is a regulated category that may require a license, permit, or notification under applicable Japanese law before selling. Confirm current legal requirements before listing."
+      },
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/haccp/01_00019.html",
+      "updatedAt": "2026-07-24",
+      "addedAt": "2026-07-24"
+    }
+  ]
+}
