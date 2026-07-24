@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>仕入れで失敗する人は「利益」を計算し、失敗しない人は「上限」を計算する | BuyMax</title>
+<meta name="description" content="せどりの仕入れ判断は「利益の計算」ではなく「仕入れ上限の逆算」で行うと速くて安全。Amazon手数料の¥750境界・成約料の落とし穴と、真贋調査・転売規制リスクの回避法を解説。">
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: system-ui, "Segoe UI", "Hiragino Sans", "Yu Gothic UI", sans-serif;
+         max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; line-height: 1.85; }
+  h1 { font-size: 1.45rem; line-height: 1.5; border-bottom: 3px solid #b45309; padding-bottom: 10px; }
+  h2 { font-size: 1.15rem; margin-top: 2.4em; color: #b45309; }
+  .meta { color: gray; font-size: .88rem; }
+  pre { background: #8882; padding: 14px 16px; border-radius: 10px; overflow-x: auto; font-size: .92rem; }
+  ul li { margin: .35em 0; }
+  .cta { background: #b45309; color: #fff !important; display: inline-block; padding: 12px 22px;
+         border-radius: 10px; font-weight: 700; text-decoration: none; margin: 8px 0; }
+  .box { border: 1px solid #8884; border-radius: 12px; padding: 4px 18px; margin: 1.2em 0; }
+  strong { color: #b45309; }
+  footer { margin-top: 48px; color: gray; font-size: .85rem; border-top: 1px solid #8884; padding-top: 16px; }
+</style>
+</head>
+<body>
+<h1>仕入れで失敗する人は「利益」を計算し、<br>失敗しない人は「上限」を計算する</h1>
+<p class="meta">Kasanari Works ・ 2026-07-24 ・ #せどり #電脳せどり #Amazon物販</p>
+
+<h2>仕入れ判断、逆向きに計算していませんか</h2>
+<p>せどりを始めたばかりの頃、多くの人はこう計算します。</p>
+<p>「この商品、1,200円で仕入れて2,980円で売れたら、手数料引いて……利益いくらだ？」</p>
+<p>電卓を叩いて、利益が出そうなら仕入れる。出なさそうなら見送る。ごく普通のやり方に見えますが、この「順方向の計算」には構造的な欠陥があります。<strong>仕入れ値が先に決まってしまっている</strong>ことです。</p>
+<p>実際の仕入れ判断で本当に知りたいのは「この仕入れ値なら利益が出るか？」ではなく、<strong>「いくらまでなら出していいか？」</strong>のはずです。目標の利益率から逆算した「仕入れ上限」を先に持っていれば、目の前の価格がその上限より下なら買い、上なら見送り。判断は一瞬で終わります。値下げ交渉やセール待ちの基準にもそのまま使えます。</p>
+
+<h2>仕入れ上限の計算式</h2>
+<pre>仕入れ上限 = （想定売価 − 販売手数料 − 成約料 − 配送関連費） ÷ （1 + 目標ROI）</pre>
+<p>例: 想定売価 ¥2,980・目標ROI 30%・おもちゃカテゴリ（手数料10.4%）・FBA標準サイズの場合</p>
+<ul>
+<li>販売手数料: ¥2,980 × 10.4% = ¥310</li>
+<li>FBA配送代行: ¥532（標準サイズ）</li>
+<li>残り: ¥2,980 − ¥310 − ¥532 = ¥2,138</li>
+<li>仕入れ上限: ¥2,138 ÷ 1.3 = <strong>¥1,644</strong></li>
+</ul>
+<p>この商品は「¥1,644以下なら買い」。これだけです。店頭でもECサイトでも、この1つの数字を目の前の価格と見比べるだけで判断が終わります。</p>
+
+<h2>ここに3つの落とし穴があります</h2>
+<div class="box">
+<p><strong>① 手数料は「一律」ではない。</strong> Amazonの販売手数料はカテゴリごとに違うだけでなく、同じカテゴリ内でも<strong>価格帯で切り替わります</strong>。たとえば家電・TVゲーム・おもちゃは「750円以下なら5%、750円を超えると全体に8.4%（おもちゃは10.4%）」という構造です。751円の商品は「750円までは5%、超過分だけ8.4%」<strong>ではなく</strong>、全額に8.4%がかかります。1円の差で手数料が跳ねる境界があるのです。さらにビューティー・食品などは¥750と¥1,500の二重境界を持ちます。</p>
+<p><strong>② メディア商品には成約料がある。</strong> 本は¥80、CD・DVDは¥140のカテゴリー成約料が別途かかります。薄利の中古本せどりでは、この¥80を忘れるだけで利益が消えます。</p>
+<p><strong>③ 手数料は改定される。</strong> Amazonの料率・FBA配送代行費は定期的に変わります。去年作ったExcelの計算シートは、今年のどこかで静かに嘘をつき始めます。</p>
+</div>
+
+<h2>そしてもう1つ、計算では防げないリスク</h2>
+<p>仕入れ上限を正しく計算できても、<strong>そもそも仕入れてはいけない商品</strong>があります。</p>
+<ul>
+<li><strong>真贋調査が多発しているブランド</strong>: 正規品でも請求書の提出を求められ、対応を誤るとアカウント停止につながります</li>
+<li><strong>メーカーが転売を規約で禁止している商品</strong>（日用品・化粧品大手に多い）</li>
+<li><strong>そもそも新品として出品できない</strong>: Amazonのコンディションガイドライン上、小売店で購入した商品は原則「新品」出品の要件を満たしません</li>
+</ul>
+<p>アカウント停止は在庫と売上金が一定期間凍結される事態で、数万円の利益のために数十万円の資金を人質に取るリスクです。「儲かるか」の前に「売っていいか」のチェックが必要——これは計算機では守れない領域です。</p>
+
+<h2>この2つを自動化するツールを作りました</h2>
+<p>……と、ここまでの話を毎回頭でやるのは無理なので、Chrome拡張にしました。</p>
+<p><a class="cta" href="https://chromewebstore.google.com/detail/buymax-%E2%80%93-max-buy-price-ri/iemgeafenaakmflaalglemakpbjegoke">BuyMax をChromeウェブストアでインストール（無料・14日間全機能）</a></p>
+<p><strong>BuyMax</strong>は、Amazonの商品ページを開くと:</p>
+<ul>
+<li><strong>安全仕入れ上限</strong>をその場で逆算表示（¥750/¥1,500境界・成約料・FBAサイズ帯を考慮、安全マージン付き。対応13カテゴリ）</li>
+<li>真贋調査多発ブランド・転売規制メーカー・要許可カテゴリを<strong>購入前に警告</strong>（211件・全件出典つき・月次更新）</li>
+<li>仕入れ予定価格を入れると実際のROIと粗利を即計算</li>
+<li>メルカリ・ヤフオク・駿河屋などへの横断検索も1クリック</li>
+</ul>
+<p>リサーチデータは端末の外に出ません（サーバーレス設計）。基本機能は無料、リスク警告と手数料テーブルの月次更新はPro（¥980/月、14日間は全機能無料）です。</p>
+
+<h2>まとめ</h2>
+<ul>
+<li>仕入れ判断は「利益の計算」ではなく「<strong>上限の逆算</strong>」で行うと速くて安全</li>
+<li>手数料の<strong>価格帯切り替え</strong>と<strong>成約料</strong>が計算事故の二大源泉</li>
+<li>計算より先に「<strong>売っていい商品か</strong>」のリスクチェックを</li>
+<li>全部自動でやりたい人は<a href="https://chromewebstore.google.com/detail/buymax-%E2%80%93-max-buy-price-ri/iemgeafenaakmflaalglemakpbjegoke">BuyMax</a>をどうぞ</li>
+</ul>
+
+<footer>© Kasanari Works ・ <a href="https://kasanariwk-ux.github.io/buymax/">BuyMax公式</a> ・ <a href="privacy.html">プライバシーポリシー</a> ・ 手数料の数値は2026-07時点の公式公表値に基づく概算です。最新はセラーセントラルでご確認ください。</footer>
+</body>
+</html>
